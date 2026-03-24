@@ -173,9 +173,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Second_fiel_BF__c</fullName>
+        <fullName>FBD_fiel_BF__c</fullName>
         <externalId>false</externalId>
-        <label>Second fiel BF</label>
+        <label>FBD fiel BF</label>
         <length>20</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
